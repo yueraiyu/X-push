@@ -1,0 +1,13 @@
+### Idea template
+.idea
+.idea/*
+*.iml
+*.ipr
+*.iws
+out/
+.idea_modules/
+target/
+
+### Java template
+*.class
+*.log
